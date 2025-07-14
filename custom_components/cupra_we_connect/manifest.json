@@ -10,6 +10,6 @@
   "issue_tracker": "https://github.com/daernsinstantfortress/cupra_we_connect/issues",
   "requirements": ["weconnect-cupra-custom @ git+https://github.com/sren09/WeConnect-Cupra-python@main#egg=weconnect-cupra-custom"],
   "ssdp": [],
-  "version": "0.8.4",
+  "version": "0.8.5",
   "zeroconf": []
 }
